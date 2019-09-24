@@ -34,7 +34,6 @@ The two mainly questions to be answered are:
 ## 3.1 - R libraries
 
 ```{r, echo=TRUE}
-getwd()
 library(knitr)
 library(markdown)
 library(rmarkdown)
